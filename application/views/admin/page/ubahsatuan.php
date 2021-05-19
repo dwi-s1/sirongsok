@@ -23,6 +23,7 @@
                                             <?php echo form_error('namasatuan') ?>
                                         </div>
                                     </div>
+                                        <a href="<?php echo site_url('satuan') ?>" class="btn btn-danger">Batal</a>
                                         <input class="btn btn-primary" type="submit" name="btn" value="Simpan" />
                                     </form>
                                 <!--<div class="card-header"><h3 class="text-center font-weight-light my-4">Tambah Satuan Barang</h3></div>
